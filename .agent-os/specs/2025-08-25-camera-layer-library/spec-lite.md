@@ -1,0 +1,3 @@
+# Spec Summary (Lite)
+
+Develop a React-based camera view component library with real-time webcam access, multi-layer system for overlays, and client-side object detection. The library enables developers to build camera applications with extensible layers that react to detected objects (faces and general objects in different colors), support interactive overlays, and maintain 20fps performance on mobile and desktop devices.
